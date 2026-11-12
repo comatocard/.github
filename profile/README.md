@@ -8,6 +8,6 @@ A Comatocard vault is a self-custodial NEAR account that holds stablecoins and i
 - **Compliance ready:** audit trail by default, named approvers, sanctions listings with their official source, accountant exports.
 - **Built on NEAR standards:** NEP-141 tokens, NEP-171 cards, NEP-297 events, global contracts.
 
-[comatocard.xyz](https://comatocard.xyz) · [app.comatocard.xyz](https://app.comatocard.xyz)
+[Docs](https://comatocard.github.io/comatocard/) · [Repository](https://github.com/comatocard/comatocard)
 
 Built for NEAR HACKATHON 2026.
